@@ -1,8 +1,3 @@
-# DS.v3.1.4.5
-
-README.md
-Project: Turing College Data Science Sprint 4 by Greta Prekeriene
-
 Objective:
 
 Perform exploratory data analysis (EDA) on a given dataset.
